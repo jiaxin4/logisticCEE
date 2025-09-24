@@ -17,7 +17,22 @@ Jiaxin Yu
 
 * [DataAnalysis_functions.R](DataAnalysis_functions.R): the code contains functions for fitting the proposed estimators in data analysis.
 
-* [DataAnalysis.R](DataAnalysis.R): the code for running the marginal and moderation analyses in the paper.
+* [DataAnalysis.R](DataAnalysis.R): the code for running the marginal and moderation analyses in the paper. The data used in the analysis can be found [here](https://osf.io/mtcfa).
   
-## 2. Data analysis
+## 2. Results in Paper and Corresponding Code
+
+### 2.1 Simulations
+
+* Simulation study in Section 5.1: the code is in [Simulation1.R](Simulation1.R).
+
+* Simulation study in Section 5.2: the code is in [Simulation2.R](Simulation2.R).
+
+### 2.2 Data Analysis of Drink Less Micro-Randomized Trial
+
+* The Drink Less data is available [here](https://osf.io/mtcfa).
+
+* Marginal and Moderation Analysis: the code is in [DataAnalysis.R](DataAnalysis.R)
+
+
+
 
