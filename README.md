@@ -1,6 +1,6 @@
-# Code for paper "Robust Estimation of Logistic Causal Excursion Effect in Micro-Randomized Trials"
+# Code for paper "Robust Estimation of Moderated Causal Excursion Odds Ratio in Micro-Randomized Trials"
 
-Code to reproduce results in the paper [Robust Estimation of Logistic Causal Excursion Effect in Micro-Randomized Trials] by Jiaxin Yu and Tianchen Qian.
+Code to reproduce results in the paper [Robust Estimation of Moderated Causal Excursion Odds Ratio in Micro-Randomized Trials] by Jiaxin Yu and Tianchen Qian.
 
 Jiaxin Yu
 2025.09.24
